@@ -1,0 +1,12 @@
+c:\users\alim\documents\visual studio 2015\Projects\Suhu\Suhu\bin\Debug\Suhu.exe.config
+C:\Users\Alim\Documents\Visual Studio 2015\Projects\Suhu\Suhu\bin\Debug\Suhu.exe
+C:\Users\Alim\Documents\Visual Studio 2015\Projects\Suhu\Suhu\bin\Debug\Suhu.pdb
+C:\Users\Alim\Documents\Visual Studio 2015\Projects\Suhu\Suhu\obj\Debug\Suhu.csprojResolveAssemblyReference.cache
+C:\Users\Alim\Documents\Visual Studio 2015\Projects\Suhu\Suhu\obj\Debug\Suhu.exe
+C:\Users\Alim\Documents\Visual Studio 2015\Projects\Suhu\Suhu\obj\Debug\Suhu.pdb
+D:\semester 3\GUI\Suhu\Suhu\bin\Debug\Suhu.exe.config
+D:\semester 3\GUI\Suhu\Suhu\obj\Debug\Suhu.exe
+D:\semester 3\GUI\Suhu\Suhu\obj\Debug\Suhu.pdb
+D:\semester 3\GUI\Suhu\Suhu\bin\Debug\Suhu.exe
+D:\semester 3\GUI\Suhu\Suhu\bin\Debug\Suhu.pdb
+D:\semester 3\GUI\Suhu\Suhu\obj\Debug\Suhu.csprojResolveAssemblyReference.cache
